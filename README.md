@@ -1,2 +1,3 @@
-# troll_client
-Troll Client 1.8
+# Troll Client PVP
+Version: 1.8
+40 mods, 30 cosmetics
